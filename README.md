@@ -17,6 +17,7 @@ This is a Gradio-based AI tool that compares your resume against a job descripti
 - Hugging Face Spaces
 
 ## 🚀 Run Locally
-```bash
+git clone https://github.com/parvbaweja/AI-Resume-Skill-Matcher.git
+cd AI-Resume-Skill-Matcher
 pip install -r requirements.txt
 python app.py
